@@ -59,13 +59,10 @@ Key techniques include:
 
 ## Repository Structure
 
-```
-.
-├── DS4M_Project.py            # Main project notebook/script
-├── GroupProject_Information.py           # Project description and framework
-├── data/                     # Project datasets
-└── README.md                 # Project documentation
-```
+* DS4M_Project: Main project notebook
+* GroupProject_Information: Project description
+* Data: Project datasets
+* README.md: Project documentation
 
 ## Tools and Libraries
 
