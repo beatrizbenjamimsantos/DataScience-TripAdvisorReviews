@@ -61,8 +61,8 @@ Key techniques include:
 
 ```
 .
-├── DS4MProject.py            # Main project notebook/script
-├── GroupProject.py           # Project description and framework
+├── DS4M_Project.py            # Main project notebook/script
+├── GroupProject_Information.py           # Project description and framework
 ├── data/                     # Project datasets
 └── README.md                 # Project documentation
 ```
