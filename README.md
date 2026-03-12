@@ -18,9 +18,9 @@ The objective is to identify the main drivers of satisfaction and dissatisfactio
 
 The analysis uses three datasets derived from Tripadvisor:
 
-* **attraction_data_reviews.csv** – review-level information (ratings, text, reviewer data, dates)
-* **attractions_data_metadata.csv** – attraction characteristics and performance indicators
-* **attractions_list.csv** – list of attractions included in the study
+* **attraction_reviews_data.csv** – review-level information (ratings, text, reviewer data, dates)
+* **attractions_metadata.csv** – attraction characteristics and performance indicators
+* **attractions_list_data.csv** – list of attractions included in the study
 
 The dataset contains variables related to:
 
